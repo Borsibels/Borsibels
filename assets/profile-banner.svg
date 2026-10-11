@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mavrick Taupa — thoughtful code, real-world impact</title>
+  <desc id="desc">A deep teal banner with mint typography and a geometric illustration connecting web, mobile, and hardware.</desc>
+  <defs>
+    <radialGradient id="glow"><stop stop-color="#386653"/><stop offset="1" stop-color="#0c1918"/></radialGradient>
+    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#203733"/><stop offset="1" stop-color="#142522"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="#0c1918"/>
+  <ellipse cx="1000" cy="180" rx="350" ry="300" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#3d5650"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="60" y="70" fill="#b5e4cf" font-size="14" letter-spacing="3">STUDENT · DEVELOPER · TEAMMATE</text>
+    <text x="56" y="150" fill="#f6f3e9" font-size="64" font-weight="700" letter-spacing="-2">Mavrick Taupa<tspan fill="#b5e4cf">.</tspan></text>
+    <text x="60" y="205" fill="#b5e4cf" font-size="28">Thoughtful code. Real-world impact.</text>
+    <text x="60" y="246" fill="#c1cec7" font-size="18">Web, mobile, and hardware-connected experiences.</text>
+    <circle cx="66" cy="299" r="5" fill="#b5e4cf"/>
+    <text x="82" y="305" fill="#c1cec7" font-size="15">NU Fairview · Quezon City, Philippines</text>
+  </g>
+  <g fill="none" stroke="#b5e4cf" stroke-width="2">
+    <path d="M940 170h105v78H895v-45" stroke-dasharray="5 7" opacity=".6"/>
+    <rect x="810" y="65" width="260" height="135" rx="16" fill="url(#panel)" stroke="#648779"/>
+    <path d="M810 98h260" stroke="#3d5650"/>
+    <path d="m880 127-18 16 18 16m44-32 18 16-18 16m-20-34-10 36"/>
+    <rect x="1000" y="210" width="78" height="106" rx="13" fill="#142522" stroke="#648779"/>
+    <path d="M1023 226h31m-29 70h28"/>
+    <rect x="808" y="221" width="110" height="80" rx="13" fill="#142522" stroke="#648779"/>
+    <rect x="846" y="245" width="34" height="30" rx="5"/>
+    <path d="M854 235v10m17-10v10m-17 30v10m17-10v10m-35-32h10m-10 15h10m34-15h10m-10 15h10"/>
+  </g>
+  <g fill="#a2b9b0"><circle cx="830" cy="82" r="3"/><circle cx="842" cy="82" r="3"/><circle cx="854" cy="82" r="3"/></g>
+</svg>

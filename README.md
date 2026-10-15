@@ -1,9 +1,9 @@
-![Mavrick Taupa — thoughtful code, real-world impact. Web, mobile, and hardware-connected experiences.](assets/profile-banner.svg)
+![Mavrick Taupa — Code that connects. Web, mobile, and hardware-connected experiences.](assets/profile-banner.svg)
 
-<p align="center">
-  <a href="https://mavrick-taupa-portfolio.vercel.app"><img alt="Explore my portfolio" src="https://img.shields.io/badge/Portfolio-Explore_my_work-b5e4cf?style=for-the-badge&amp;labelColor=142522"></a>
-  <a href="https://mavrick-taupa-portfolio.vercel.app/assets/resume.pdf"><img alt="View my résumé" src="https://img.shields.io/badge/Resume-View_PDF-b5e4cf?style=for-the-badge&amp;labelColor=142522"></a>
-  <a href="mailto:mavricktaupa2@gmail.com"><img alt="Email Mavrick" src="https://img.shields.io/badge/Contact-Let%27s_connect-b5e4cf?style=for-the-badge&amp;labelColor=142522"></a>
+<p align="left">
+  <a href="https://mavrick-taupa-portfolio.vercel.app"><img alt="Explore my portfolio" src="https://img.shields.io/badge/Portfolio-Explore_my_work-ebebe6?style=for-the-badge&amp;labelColor=1b1b1b"></a>
+  <a href="https://mavrick-taupa-portfolio.vercel.app/assets/resume.pdf"><img alt="View my résumé" src="https://img.shields.io/badge/Resume-View_PDF-ebebe6?style=for-the-badge&amp;labelColor=1b1b1b"></a>
+  <a href="mailto:mavricktaupa2@gmail.com"><img alt="Email Mavrick" src="https://img.shields.io/badge/Contact-Let%27s_connect-ebebe6?style=for-the-badge&amp;labelColor=1b1b1b"></a>
 </p>
 
 # Hi, I'm Mavrick
@@ -16,9 +16,7 @@ I build web, mobile, and hardware-connected applications that help people and th
 
 I'm open to **software development, frontend development, and IT support internships**.
 
-[Explore my portfolio](https://mavrick-taupa-portfolio.vercel.app) · [View my résumé](https://mavrick-taupa-portfolio.vercel.app/assets/resume.pdf) · [Email me](mailto:mavricktaupa2@gmail.com)
-
-## Selected projects
+## Selected work
 
 ### [Sift](https://github.com/Borsibels/Sift) · 2026
 
@@ -59,12 +57,12 @@ An operating systems project using Bash to generate JSON, transfer it between Al
 
 ## Tools & skills
 
-![React](https://img.shields.io/badge/React-142522?style=flat-square&logo=react&logoColor=b5e4cf)
-![JavaScript](https://img.shields.io/badge/JavaScript-142522?style=flat-square&logo=javascript&logoColor=b5e4cf)
-![Python](https://img.shields.io/badge/Python-142522?style=flat-square&logo=python&logoColor=b5e4cf)
-![PHP](https://img.shields.io/badge/PHP-142522?style=flat-square&logo=php&logoColor=b5e4cf)
-![Supabase](https://img.shields.io/badge/Supabase-142522?style=flat-square&logo=supabase&logoColor=b5e4cf)
-![Arduino](https://img.shields.io/badge/Arduino-142522?style=flat-square&logo=arduino&logoColor=b5e4cf)
+![React](https://img.shields.io/badge/React-1b1b1b?style=flat-square&logo=react&logoColor=ebebe6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1b1b1b?style=flat-square&logo=javascript&logoColor=ebebe6)
+![Python](https://img.shields.io/badge/Python-1b1b1b?style=flat-square&logo=python&logoColor=ebebe6)
+![PHP](https://img.shields.io/badge/PHP-1b1b1b?style=flat-square&logo=php&logoColor=ebebe6)
+![Supabase](https://img.shields.io/badge/Supabase-1b1b1b?style=flat-square&logo=supabase&logoColor=ebebe6)
+![Arduino](https://img.shields.io/badge/Arduino-1b1b1b?style=flat-square&logo=arduino&logoColor=ebebe6)
 
 - **Development:** React.js, HTML, CSS, JavaScript, Python, PHP
 - **Data & platforms:** MySQL, Firebase, Supabase, Vercel
